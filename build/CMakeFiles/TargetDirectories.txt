@@ -1,0 +1,10 @@
+C:/Users/ASUS/Downloads/ABDM/Compressed/s071cmake-sfml-snake-main/build/CMakeFiles/main.dir
+C:/Users/ASUS/Downloads/ABDM/Compressed/s071cmake-sfml-snake-main/build/CMakeFiles/package.dir
+C:/Users/ASUS/Downloads/ABDM/Compressed/s071cmake-sfml-snake-main/build/CMakeFiles/package_source.dir
+C:/Users/ASUS/Downloads/ABDM/Compressed/s071cmake-sfml-snake-main/build/CMakeFiles/test.dir
+C:/Users/ASUS/Downloads/ABDM/Compressed/s071cmake-sfml-snake-main/build/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Downloads/ABDM/Compressed/s071cmake-sfml-snake-main/build/CMakeFiles/rebuild_cache.dir
+C:/Users/ASUS/Downloads/ABDM/Compressed/s071cmake-sfml-snake-main/build/CMakeFiles/list_install_components.dir
+C:/Users/ASUS/Downloads/ABDM/Compressed/s071cmake-sfml-snake-main/build/CMakeFiles/install.dir
+C:/Users/ASUS/Downloads/ABDM/Compressed/s071cmake-sfml-snake-main/build/CMakeFiles/install/local.dir
+C:/Users/ASUS/Downloads/ABDM/Compressed/s071cmake-sfml-snake-main/build/CMakeFiles/install/strip.dir
