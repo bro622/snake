@@ -55,9 +55,11 @@ set(SOURCES
     src/Game.cpp
     src/Snake.cpp
     src/Food.cpp
-    src/Input.cpp
     src/Renderer.cpp
     src/SaveSystem.cpp
+    src/systems/InputSystem.cpp
+    src/systems/TimeSystem.cpp
+    src/core/StateMachine.cpp
 )
 
 if(WIN32)

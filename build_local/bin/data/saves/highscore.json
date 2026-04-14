@@ -1,8 +1,8 @@
 {
-  "score": 30,
-  "direction": 1109848188,
-  "gridWidth": 1363147336,
-  "gridHeight": 2,
+  "score": 60,
+  "direction": 681405800,
+  "gridWidth": 681405800,
+  "gridHeight": 509,
   "snake": [],
   "food": [0,0]
 }
